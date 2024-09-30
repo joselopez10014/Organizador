@@ -7,4 +7,4 @@ Somos un grupo de amigos que queremos reunirnos de forma regular para jugar vide
 -Al no saber que juegos tiene cada miembro del grupo solemos tener problemas para saber a que podemos jugar
 
 ## Documentación
-[Documentación](./documentation)
+[Documentación](./Documentacion)
